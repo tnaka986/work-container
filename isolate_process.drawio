@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-18T15:07:13.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="wN1lt0nRJC8q1vNh-Jcf" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-18T15:25:21.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="EMABphfIMvPAxBXKJI7Y" version="12.5.5" type="github">
   <diagram id="3PronI64AzVX0cKYdvCM" name="ページ1">
     <mxGraphModel dx="862" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="337.5" y="425" width="20" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="z6NZwSQl8ovmcM_vJdd9-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="90" y="69" width="520" height="221" as="geometry"/>
+          <mxGeometry x="90" y="69" width="530" height="221" as="geometry"/>
         </mxCell>
         <mxCell id="z6NZwSQl8ovmcM_vJdd9-6" value="" style="group;fontSize=11;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="110" y="80" width="60" height="50" as="geometry"/>
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z6NZwSQl8ovmcM_vJdd9-14" value="ホストOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;opacity=40;fontColor=#3333FF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="80" width="75" height="20" as="geometry"/>
+          <mxGeometry x="540.5" y="76" width="75" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="z6NZwSQl8ovmcM_vJdd9-15" value="" style="group;fontSize=11;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="153" y="130" width="60" height="50" as="geometry"/>
