@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-18T13:10:11.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="rBJGC5SXY7rOf4TKtUH5" version="12.5.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-18T13:12:00.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="8frQQrN29h69m0po24T1" version="12.5.5" type="github" pages="2">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1437" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -446,9 +446,6 @@
             <mxPoint x="466" y="402" as="sourcePoint"/>
             <mxPoint x="506" y="440" as="targetPoint"/>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="eM5YOxxPuHEi0-diksC8-88" value="●コンテナ内からホストOSのルートディレクトリにアクセスできない&lt;br&gt;●他コンテナのルートディレクトリにもアクセスできない" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;fillColor=#eeeeee;fontFamily=Helvetica;fontSize=13;strokeColor=#36393d;position2=0.45;align=left;" vertex="1" parent="eM5YOxxPuHEi0-diksC8-1">
-          <mxGeometry x="416" y="310" width="264" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="eM5YOxxPuHEi0-diksC8-90" value="コンテナから見たときのルートディレクトリは/var/lib/container/test01/となり、それより上にはアクセスできない" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;fillColor=#eeeeee;fontFamily=Helvetica;fontSize=13;strokeColor=#36393d;position2=0.45;align=left;" vertex="1" parent="eM5YOxxPuHEi0-diksC8-1">
           <mxGeometry x="426" y="490" width="259" height="92" as="geometry"/>
