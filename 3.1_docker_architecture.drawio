@@ -1,1 +1,79 @@
-<mxfile host="www.draw.io" modified="2020-01-20T13:32:25.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" version="12.5.5" etag="RFQOMTYOqYn7O3JxjoI_" type="github"><diagram id="VVsAgdPNdYZxnJufdYn6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-20T13:52:25.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="OSO-5LXKBgrKj59s8mlF" version="12.5.5" type="github">
+  <diagram id="VVsAgdPNdYZxnJufdYn6" name="ページ1">
+    <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-15" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="180" height="121" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="65" y="120" width="120" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="70" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-2" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="135" width="60" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-6" value="Dockerクライアント" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="69" y="191" width="115" height="19" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-11" value="ホストOS" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;comic=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="235" y="173" width="195" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-12" value="Dockerエンジン" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;comic=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="235" y="150" width="195" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-14" value="イメージ" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;comic=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="336" y="97" width="80" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-19" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png;shadow=0;comic=0;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="105" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-20" value="Git Hub、&lt;br&gt;オンプレなど" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="174" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-21" value="Dockerホスト" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="287" y="220" width="115" height="19" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-22" value="Dockerレジストリ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="210" width="115" height="19" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-23" value="docker pull&lt;br&gt;docker run" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;shadow=0;comic=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="78" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="167" as="sourcePoint"/>
+            <mxPoint x="239" y="167" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-26" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="194" y="146" width="30" height="21" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="144" as="sourcePoint"/>
+            <mxPoint x="415" y="144" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-30" value="pull" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-34" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346" y="131.5" as="sourcePoint"/>
+            <mxPoint x="319" y="131.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-13" value="コンテナ" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;comic=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="244" y="97" width="80" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqJSZqbd3A80LUIjfYNC-35" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&lt;b&gt;run&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="304" y="77" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
