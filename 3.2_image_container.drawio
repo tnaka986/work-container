@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-20T14:13:57.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="NiegZ1nEN_jUm7oB1ZGp" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T14:16:35.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="UqENhB42oRuzQoL8xb8K" version="12.5.5" type="github">
   <diagram id="cfWL9I5VaqwXCQ-wAxmS" name="ページ1">
     <mxGraphModel dx="862" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
       <root>
@@ -32,13 +32,13 @@
           <mxGeometry x="400" y="196" width="20" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="Yg40pVJLnZHHLznyGigl-11" value="読み取り専用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="213" width="50" height="30" as="geometry"/>
+          <mxGeometry x="350" y="224" width="50" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Yg40pVJLnZHHLznyGigl-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#00CC00;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="551" y="198" width="20" height="68" as="geometry"/>
         </mxCell>
         <mxCell id="Yg40pVJLnZHHLznyGigl-13" value="イメージ層" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="569" y="206" width="70" height="30" as="geometry"/>
+          <mxGeometry x="571" y="216" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Yg40pVJLnZHHLznyGigl-14" value="dockerd" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#000000;endWidth=22;endSize=5.33;width=20;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
